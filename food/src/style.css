@@ -1,0 +1,15 @@
+#navbar{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 5%;
+    padding-right: 5%;
+    border: solid 1px black
+}
+#options{
+    display: flex;
+    justify-content: space-between;
+}
+#options h2{
+ padding-left: 30px;
+ padding-right: 10px;
+}
